@@ -1,0 +1,26 @@
+div {
+	position: absolute;
+	background-color: #65FEFE;
+	top: 10px;
+	border: solid indigo;
+	width: 100px;
+}
+.d1 {
+	left: 10px;
+}
+
+#d1 {
+	left: 130px;	
+}
+
+.d2 {
+	left: 250px ;
+}
+
+#d2 {
+	left: 370px;
+}
+
+.d3 {
+	left: 490px;
+}
